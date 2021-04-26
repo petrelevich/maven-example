@@ -35,7 +35,7 @@
         <minimal.maven.version>3.3.9</minimal.maven.version>
         <com.google.guava.version>28.2-jre</com.google.guava.version>
         <spring-framework-bom.version>5.2.2.RELEASE</spring-framework-bom.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
     </properties>
 
     <dependencyManagement>
